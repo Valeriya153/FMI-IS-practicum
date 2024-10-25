@@ -1,3 +1,5 @@
+//РЕШЕНИЕ НА КВАДРАТНО УРАВНЕНИЕ!!!
+
 #include <iostream>
 #include <cmath>
 using namespace std;
