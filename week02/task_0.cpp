@@ -1,3 +1,4 @@
+//Да се пресметне n! за дадено n.
 #include <iostream>
 #include <cmath>
 using namespace std;
