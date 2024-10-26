@@ -26,6 +26,6 @@ int main() {
 	default:
 		cout << "wrong operation";
 		break;
-		return 0;
 	}
+	return 0;
 }
